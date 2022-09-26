@@ -4,16 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _06Encapsulamento
+namespace _07construtor
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Aluno aluno = new Aluno();
-
-            aluno.mensagem();
-
 
 
         }

@@ -1,0 +1,8 @@
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\06Encapsulamento\06Encapsulamento\bin\Debug\06Encapsulamento.exe.config
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\06Encapsulamento\06Encapsulamento\bin\Debug\06Encapsulamento.exe
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\06Encapsulamento\06Encapsulamento\bin\Debug\06Encapsulamento.pdb
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\06Encapsulamento\06Encapsulamento\obj\Debug\06Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\06Encapsulamento\06Encapsulamento\obj\Debug\06Encapsulamento.csproj.SuggestedBindingRedirects.cache
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\06Encapsulamento\06Encapsulamento\obj\Debug\06Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\06Encapsulamento\06Encapsulamento\obj\Debug\06Encapsulamento.exe
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\06Encapsulamento\06Encapsulamento\obj\Debug\06Encapsulamento.pdb
