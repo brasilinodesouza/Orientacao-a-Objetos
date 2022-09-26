@@ -1,0 +1,8 @@
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\03exercicioEscolar\03exercicioEscolar\bin\Debug\03exercicioEscolar.exe.config
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\03exercicioEscolar\03exercicioEscolar\bin\Debug\03exercicioEscolar.exe
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\03exercicioEscolar\03exercicioEscolar\bin\Debug\03exercicioEscolar.pdb
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\03exercicioEscolar\03exercicioEscolar\obj\Debug\03exercicioEscolar.csproj.AssemblyReference.cache
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\03exercicioEscolar\03exercicioEscolar\obj\Debug\03exercicioEscolar.csproj.SuggestedBindingRedirects.cache
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\03exercicioEscolar\03exercicioEscolar\obj\Debug\03exercicioEscolar.csproj.CoreCompileInputs.cache
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\03exercicioEscolar\03exercicioEscolar\obj\Debug\03exercicioEscolar.exe
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\03exercicioEscolar\03exercicioEscolar\obj\Debug\03exercicioEscolar.pdb

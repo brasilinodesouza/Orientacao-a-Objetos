@@ -1,0 +1,8 @@
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\04ExercicioIMC\04ExercicioIMC\bin\Debug\04ExercicioIMC.exe.config
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\04ExercicioIMC\04ExercicioIMC\bin\Debug\04ExercicioIMC.exe
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\04ExercicioIMC\04ExercicioIMC\bin\Debug\04ExercicioIMC.pdb
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\04ExercicioIMC\04ExercicioIMC\obj\Debug\04ExercicioIMC.csproj.AssemblyReference.cache
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\04ExercicioIMC\04ExercicioIMC\obj\Debug\04ExercicioIMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\04ExercicioIMC\04ExercicioIMC\obj\Debug\04ExercicioIMC.csproj.CoreCompileInputs.cache
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\04ExercicioIMC\04ExercicioIMC\obj\Debug\04ExercicioIMC.exe
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\04ExercicioIMC\04ExercicioIMC\obj\Debug\04ExercicioIMC.pdb

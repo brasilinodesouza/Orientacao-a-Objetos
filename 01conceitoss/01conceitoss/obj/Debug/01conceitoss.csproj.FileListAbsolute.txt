@@ -1,0 +1,8 @@
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\01conceitoss\01conceitoss\bin\Debug\01conceitoss.exe.config
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\01conceitoss\01conceitoss\bin\Debug\01conceitoss.exe
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\01conceitoss\01conceitoss\bin\Debug\01conceitoss.pdb
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\01conceitoss\01conceitoss\obj\Debug\01conceitoss.csproj.AssemblyReference.cache
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\01conceitoss\01conceitoss\obj\Debug\01conceitoss.csproj.SuggestedBindingRedirects.cache
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\01conceitoss\01conceitoss\obj\Debug\01conceitoss.csproj.CoreCompileInputs.cache
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\01conceitoss\01conceitoss\obj\Debug\01conceitoss.exe
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\01conceitoss\01conceitoss\obj\Debug\01conceitoss.pdb

@@ -1,0 +1,8 @@
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\02metodos\02metodos\bin\Debug\02metodos.exe.config
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\02metodos\02metodos\bin\Debug\02metodos.exe
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\02metodos\02metodos\bin\Debug\02metodos.pdb
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\02metodos\02metodos\obj\Debug\02metodos.csproj.AssemblyReference.cache
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\02metodos\02metodos\obj\Debug\02metodos.csproj.SuggestedBindingRedirects.cache
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\02metodos\02metodos\obj\Debug\02metodos.csproj.CoreCompileInputs.cache
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\02metodos\02metodos\obj\Debug\02metodos.exe
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\02metodos\02metodos\obj\Debug\02metodos.pdb
