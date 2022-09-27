@@ -4,17 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _09This
+namespace _12Estatico
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Pessoa p = new Pessoa("Neto pelo THIS");   
 
+            Exemplo.soma(3, 7);
 
-
-
+            Console.WriteLine("Meu nome é "+Exemplo.nome);
         }
     }
 }

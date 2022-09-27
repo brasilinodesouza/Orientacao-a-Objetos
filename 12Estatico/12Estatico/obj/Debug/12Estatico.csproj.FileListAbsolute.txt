@@ -1,0 +1,8 @@
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\12Estatico\12Estatico\bin\Debug\12Estatico.exe.config
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\12Estatico\12Estatico\bin\Debug\12Estatico.exe
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\12Estatico\12Estatico\bin\Debug\12Estatico.pdb
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\12Estatico\12Estatico\obj\Debug\12Estatico.csproj.AssemblyReference.cache
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\12Estatico\12Estatico\obj\Debug\12Estatico.csproj.SuggestedBindingRedirects.cache
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\12Estatico\12Estatico\obj\Debug\12Estatico.csproj.CoreCompileInputs.cache
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\12Estatico\12Estatico\obj\Debug\12Estatico.exe
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\12Estatico\12Estatico\obj\Debug\12Estatico.pdb

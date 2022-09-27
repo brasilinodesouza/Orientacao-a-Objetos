@@ -1,0 +1,8 @@
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\13Abstração\13Abstração\bin\Debug\13Abstração.exe.config
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\13Abstração\13Abstração\bin\Debug\13Abstração.exe
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\13Abstração\13Abstração\bin\Debug\13Abstração.pdb
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\13Abstração\13Abstração\obj\Debug\13Abstração.csproj.AssemblyReference.cache
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\13Abstração\13Abstração\obj\Debug\13Abstração.csproj.SuggestedBindingRedirects.cache
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\13Abstração\13Abstração\obj\Debug\13Abstração.csproj.CoreCompileInputs.cache
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\13Abstração\13Abstração\obj\Debug\13Abstração.exe
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\13Abstração\13Abstração\obj\Debug\13Abstração.pdb

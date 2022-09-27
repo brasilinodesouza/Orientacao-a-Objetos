@@ -1,0 +1,8 @@
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\11Polimorfismo\11Polimorfismo\bin\Debug\11Polimorfismo.exe.config
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\11Polimorfismo\11Polimorfismo\bin\Debug\11Polimorfismo.exe
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\11Polimorfismo\11Polimorfismo\bin\Debug\11Polimorfismo.pdb
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\11Polimorfismo\11Polimorfismo\obj\Debug\11Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\11Polimorfismo\11Polimorfismo\obj\Debug\11Polimorfismo.csproj.SuggestedBindingRedirects.cache
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\11Polimorfismo\11Polimorfismo\obj\Debug\11Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\11Polimorfismo\11Polimorfismo\obj\Debug\11Polimorfismo.exe
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\11Polimorfismo\11Polimorfismo\obj\Debug\11Polimorfismo.pdb

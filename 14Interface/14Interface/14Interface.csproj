@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{01697EE4-9C98-45F4-83BC-6606415F4732}</ProjectGuid>
+    <ProjectGuid>{D361CED8-3929-4863-AB2C-AD983CE910DD}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_09This</RootNamespace>
-    <AssemblyName>09This</AssemblyName>
+    <RootNamespace>_14Interface</RootNamespace>
+    <AssemblyName>14Interface</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Pessoa.cs" />
+    <Compile Include="Calculo.cs" />
+    <Compile Include="IPadrao.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

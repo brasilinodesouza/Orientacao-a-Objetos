@@ -1,0 +1,8 @@
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\10Herança\10Herança\bin\Debug\10Herança.exe.config
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\10Herança\10Herança\bin\Debug\10Herança.exe
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\10Herança\10Herança\bin\Debug\10Herança.pdb
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\10Herança\10Herança\obj\Debug\10Herança.csproj.AssemblyReference.cache
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\10Herança\10Herança\obj\Debug\10Herança.csproj.SuggestedBindingRedirects.cache
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\10Herança\10Herança\obj\Debug\10Herança.csproj.CoreCompileInputs.cache
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\10Herança\10Herança\obj\Debug\10Herança.exe
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\10Herança\10Herança\obj\Debug\10Herança.pdb

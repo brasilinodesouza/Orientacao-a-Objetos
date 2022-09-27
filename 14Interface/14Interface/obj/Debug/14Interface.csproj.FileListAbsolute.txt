@@ -1,0 +1,8 @@
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\14Interface\14Interface\bin\Debug\14Interface.exe.config
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\14Interface\14Interface\bin\Debug\14Interface.exe
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\14Interface\14Interface\bin\Debug\14Interface.pdb
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\14Interface\14Interface\obj\Debug\14Interface.csproj.AssemblyReference.cache
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\14Interface\14Interface\obj\Debug\14Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\14Interface\14Interface\obj\Debug\14Interface.csproj.CoreCompileInputs.cache
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\14Interface\14Interface\obj\Debug\14Interface.exe
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\14Interface\14Interface\obj\Debug\14Interface.pdb

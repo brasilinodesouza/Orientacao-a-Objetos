@@ -1,0 +1,8 @@
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\09This\09This\bin\Debug\09This.exe.config
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\09This\09This\bin\Debug\09This.exe
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\09This\09This\bin\Debug\09This.pdb
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\09This\09This\obj\Debug\09This.csproj.AssemblyReference.cache
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\09This\09This\obj\Debug\09This.csproj.SuggestedBindingRedirects.cache
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\09This\09This\obj\Debug\09This.csproj.CoreCompileInputs.cache
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\09This\09This\obj\Debug\09This.exe
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\09This\09This\obj\Debug\09This.pdb

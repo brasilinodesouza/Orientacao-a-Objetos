@@ -4,17 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _09This
+namespace _10Herança
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Pessoa p = new Pessoa("Neto pelo THIS");   
+            Colaborador obj = new Colaborador("Neto", 30, 2000);
 
 
 
 
         }
+
     }
 }
