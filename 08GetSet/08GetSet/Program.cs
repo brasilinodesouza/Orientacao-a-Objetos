@@ -4,18 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _07construtor
+namespace _08GetSet
 {
     internal class Program
     {
         static void Main(string[] args)
         {
             Pessoa p = new Pessoa();
-            Pessoa p1 = new Pessoa("Neto");
 
 
-
-
+            p.Nome = "Neto";
+            Console.WriteLine(p.Nome);
 
         }
     }

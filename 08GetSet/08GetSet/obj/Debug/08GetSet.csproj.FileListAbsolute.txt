@@ -1,0 +1,8 @@
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\08GetSet\08GetSet\bin\Debug\08GetSet.exe.config
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\08GetSet\08GetSet\bin\Debug\08GetSet.exe
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\08GetSet\08GetSet\bin\Debug\08GetSet.pdb
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\08GetSet\08GetSet\obj\Debug\08GetSet.csproj.AssemblyReference.cache
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\08GetSet\08GetSet\obj\Debug\08GetSet.csproj.SuggestedBindingRedirects.cache
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\08GetSet\08GetSet\obj\Debug\08GetSet.csproj.CoreCompileInputs.cache
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\08GetSet\08GetSet\obj\Debug\08GetSet.exe
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\08GetSet\08GetSet\obj\Debug\08GetSet.pdb

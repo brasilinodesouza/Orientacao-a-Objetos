@@ -1,0 +1,8 @@
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\07construtor\07construtor\bin\Debug\07construtor.exe.config
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\07construtor\07construtor\bin\Debug\07construtor.exe
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\07construtor\07construtor\bin\Debug\07construtor.pdb
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\07construtor\07construtor\obj\Debug\07construtor.csproj.AssemblyReference.cache
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\07construtor\07construtor\obj\Debug\07construtor.csproj.SuggestedBindingRedirects.cache
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\07construtor\07construtor\obj\Debug\07construtor.csproj.CoreCompileInputs.cache
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\07construtor\07construtor\obj\Debug\07construtor.exe
+C:\Users\bagul\OneDrive\Área de Trabalho\.net\07construtor\07construtor\obj\Debug\07construtor.pdb
